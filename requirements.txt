@@ -1,0 +1,4 @@
+mcstatus
+asyncpg
+tortoise-orm
+python-dotenv
